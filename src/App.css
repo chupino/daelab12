@@ -1,7 +1,11 @@
 .App {
   text-align: center;
 }
-
+body{
+  background-image: url("https://wallpapercosmos.com/w/full/6/c/d/33289-3840x2160-desktop-4k-star-wars-background.jpg");
+  background-repeat: false;
+  background-size: cover;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
